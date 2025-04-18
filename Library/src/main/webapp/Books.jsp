@@ -36,9 +36,7 @@
 
 </table>
 
-<input type="submit" value= "Acquire" >  
-
-<input type="reset" value="Go Back">
+<input type="submit" value= "Acquire the Book" >  
 </form>
 
 </body>
